@@ -4,4 +4,6 @@ public class Practice2 {
 
     //just checking
 
+    // second commit
+
 }
